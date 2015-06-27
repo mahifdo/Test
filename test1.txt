@@ -1,2 +1,3 @@
 This is my new file.
 Then I have edited it
+Then again
